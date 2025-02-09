@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/GWP_Educational_Platform/static/css/main.e4403d92.css",
+    "main.js": "/GWP_Educational_Platform/static/js/main.e31bc190.js",
+    "static/media/project (4).jpeg": "/GWP_Educational_Platform/static/media/project (4).26e98a8b47d609c3f90a.jpeg",
+    "static/media/project (3).jpeg": "/GWP_Educational_Platform/static/media/project (3).f2991b1a2a7c33cd9bfc.jpeg",
+    "static/media/project (2).jpeg": "/GWP_Educational_Platform/static/media/project (2).476cac5582b1ce7afb57.jpeg",
+    "static/media/pattern.webp": "/GWP_Educational_Platform/static/media/pattern.f468dff1a88608cfbfa2.webp",
+    "static/media/project (1).jpeg": "/GWP_Educational_Platform/static/media/project (1).52c2046aef261159bcf6.jpeg",
+    "static/media/team-1.jpeg": "/GWP_Educational_Platform/static/media/team-1.0fd36e0ee93dcfacdef8.jpeg",
+    "static/media/team-5.jpeg": "/GWP_Educational_Platform/static/media/team-5.65c00d7182566b6c8058.jpeg",
+    "static/media/team-2.jpg": "/GWP_Educational_Platform/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpeg": "/GWP_Educational_Platform/static/media/team-3.154cb7ba6edaf76b741a.jpeg",
+    "static/media/team-4.jpeg": "/GWP_Educational_Platform/static/media/team-4.85c82b6e60178804017f.jpeg",
+    "static/media/logo-slack.svg": "/GWP_Educational_Platform/static/media/logo-slack.7c47c5aa474b5c4fb39fcf05ffb8e4e7.svg",
+    "static/media/logo-xd.svg": "/GWP_Educational_Platform/static/media/logo-xd.6e37886f94dba0c2967ece68a152e30c.svg",
+    "static/media/logo-invision.svg": "/GWP_Educational_Platform/static/media/logo-invision.a1062115730dcd10e1c4f4abe7b9ab33.svg",
+    "static/media/logo-spotify.svg": "/GWP_Educational_Platform/static/media/logo-spotify.e83cf56c9d99a1fdf59e8deb58bbe470.svg",
+    "static/media/logo-jira.svg": "/GWP_Educational_Platform/static/media/logo-jira.c19fd4e416babfbd0fdb0a794188c601.svg",
+    "static/media/logo-atlassian.svg": "/GWP_Educational_Platform/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
+    "index.html": "/GWP_Educational_Platform/index.html",
+    "main.e4403d92.css.map": "/GWP_Educational_Platform/static/css/main.e4403d92.css.map",
+    "main.e31bc190.js.map": "/GWP_Educational_Platform/static/js/main.e31bc190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4403d92.css",
+    "static/js/main.e31bc190.js"
+  ]
+}
